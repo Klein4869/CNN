@@ -1,0 +1,32 @@
+深度学习模型
+
+1.输入数据
+
+2.定义网络超参数（learning_rate, training_iters, batch_size, display_step)
+
+3.定义网络参数
+n_input
+n_classes
+drop_out
+
+4.定义占位符
+x, y, keep_prob,均使用placeholder
+
+5.定义卷积操作
+
+6.定义池化操作
+
+7.定义规范化
+
+8.开始定义所有网络参数，w，b
+
+9.定义网络
+
+10.构建模型（运用第九步的网络定义）
+
+11.定义cost function和optimizer
+
+12.评估函数
+
+13.初始化变量并开始训练 可以在途中输出测试集准确度查看训练过程。
+
